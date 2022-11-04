@@ -18,3 +18,4 @@ def sort_data(number,read,write,sor,da,data):
         elif d=='8':
             print('До свидания!')
             break
+            break
